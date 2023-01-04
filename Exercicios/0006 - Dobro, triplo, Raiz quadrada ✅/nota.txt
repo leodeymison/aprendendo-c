@@ -1,0 +1,7 @@
+%.2lf == limita a quantidade de números após a virgula [double]
+%.2f == limita a quantidade de números após a virgula [float]
+
+
+-lm == Forçar a compilação de todas as bilbiotecas
+exemplo: 
+    gcc main.c -o main -lm

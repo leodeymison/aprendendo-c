@@ -1,0 +1,13 @@
+\b Retrocesso (BS)
+\f Alimentação de formulário (FF)
+\n Nova linha (LF)
+\r Retorno de carro (CR)
+\t Tabulação horizontal (HT)
+\" Aspas duplas
+\' Aspas simples
+\0 Nulo
+\\ Barra invertida
+\v Tabulação vertical
+\a Alerta (beep)
+\N Constante octal (onde N é uma constante octal)
+\xN Constatnte hexadecimal (onde N é uma constante hexadecimal)

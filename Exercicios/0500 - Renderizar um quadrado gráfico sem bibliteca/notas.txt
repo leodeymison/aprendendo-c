@@ -1,0 +1,13 @@
+g++ -c main.cpp
+
+g++ main.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system
+
+./sfml-app
+
+
+
+
+AULAS:
+https://www.sfml-dev.org/tutorials/2.5/
+https://www.sfml-dev.org/documentation/2.5.1/
+https://github.com/SFML/SFML/wiki/
