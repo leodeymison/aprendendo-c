@@ -1,3 +1,7 @@
+Aulas:
+https://www.youtube.com/playlist?list=PLqJK4Oyr5WSjjEQCKkX6oXFORZX7ro3DA
+
+
 g++ -c main.c
 
 g++ main.o -o main
